@@ -55,7 +55,7 @@
      
  ### <i><h4>🚀🚀 Minhas estatísticas🚀🚀</h4></i>
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttrickinG&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![ttrikingG's GitHub stat](https://github-readme-stats.vercel.app/api?username=ttrikingG&show_icons=true&theme=radical)<br>
      
 </div>
