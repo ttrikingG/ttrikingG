@@ -56,7 +56,7 @@
 
 ![ttrikingG's GitHub stat](https://github-readme-stats.vercel.app/api?username=ttrikingG&show_icons=true&theme=radical)<br>
 
-### <i><h3>🚀🚀🚀🚀 Meta de estudos para esse ano de 2023 💪🤨 !!! 🚀🚀🚀🚀</h3></i>
+### <h3>🚀🚀🚀🚀<i> Meta de estudos para esse ano de 2023 💪🤨 !!!</i> 🚀🚀🚀🚀</h3>
 
 <table>
     <tr>
@@ -68,4 +68,4 @@
 </table>
 
 
-### <h3><i> Obridado Pela Visita👊😎!!!</i></h3>
+### <h3><i> Obridado Pela Visita!!!</i>👊😎</h3>
