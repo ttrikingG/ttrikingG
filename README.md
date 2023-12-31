@@ -2,8 +2,7 @@
 ### <i><h3>Let’s Work Together !!!</h3></i>
 <hr>
 
-[![](https://github.com/ttrikingG/imageProfile/blob/main/ttrickingLOGOmaneki3.png)]()
-[![Site](https://img.shields.io/website-go-down-green-red/http/ttricking.com)](https://ttricking.com/)
+[![](https://github.com/ttrikingG/imageProfile/blob/main/ttrickingLOGOmaneki3.png)](https://ttricking.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hailtom-g-dias-66909a265)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ttricking.g/)
 [![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -16,10 +15,10 @@
 
 <div>
     <ul>
-    <li>Entendimento sobre o versionamento(comandos) <strong><b>Composer e NPM</b></strong>.</li>
-    <li>Conhecimentos em desenvolvimento(estruturação) projetos e aplicações em <strong><b>PHP(Orientado a Objetos)</b></strong>. Conhecimentos e entendimento sobre <strong>Controllers, Views, Models, Routers, PDO, criação de formulários, validação e cadastro de usuários no banco de dados</strong>.</li>
-    <li>Criação e desenvolvimento(padrão MVC ).</li>
-    <li>Conhecimentos em </b></strong>Banco de dados Sql, PostgresSql, SQLite</b></strong>, entendimento conceitual sobre: abstração, normalização, chaves e relacionamentos, modelo entidade-relacionamento, operações(CRUD)criação de tabelas, edição e recuperação de informações do banco,<strong><b>(mysql, sqlite)</b></strong> uso da ferramenta PHPmyadmin.</li><br>
+    <li>Conhecimentos em desenvolvimento(estruturação) de projetos e aplicações em <strong><b>PHP(Orientado a Objetos)</b></strong>.</li>
+    <li>Criação e desenvolvimento(padrão MVC ). Conhecimentos e entendimento sobre <strong>Controllers, Views, Models, Routers, PDO, criação de formulários, validação e cadastro de usuários no banco de dados</strong>.</li>
+    <li>Conhecimentos em </b></strong>Banco de dados Sql, PostgresSql, SQLite</b></strong>, entendimento conceitual sobre: abstração, normalização, chaves e relacionamentos, modelo entidade-relacionamento, operações(CRUD)criação de tabelas, edição e recuperação de informações do banco,<strong><b>(mysql, sqlite, postgres)</b> , ActiveRecords</strong>.</li>
+     <li>Uso de ferramentas: <strong>Composer, phpMailer, twig, plates, Axios, Intervention, illuminate</strong>.</li>
     </ul>
 </div>
         
@@ -52,9 +51,15 @@
     </ul>
 </div>
 
-### <i><h4>🚀🚀 Minhas estatísticas🚀🚀</h4></i>
-
+<div align="center">
+     
+ ### <i><h4>🚀🚀 Minhas estatísticas🚀🚀</h4></i>
+     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![ttrikingG's GitHub stat](https://github-readme-stats.vercel.app/api?username=ttrikingG&show_icons=true&theme=radical)<br>
+     
+</div>
+
 
 ### <h3>🚀🚀🚀🚀<i> Meta de estudos para esse ano de 2023 !!!</i> 💪🤨 🚀🚀🚀🚀</h3>
 
