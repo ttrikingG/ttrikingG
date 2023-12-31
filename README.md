@@ -50,7 +50,7 @@
         <li>Noções de sistema operacional (ambiente Linux, nível usuário básico para intermediário)</li>
         <li>Grande habilidade de comunicação, facilidade com trabalho em equipe e atendimento ao cliente.</li>
     </ul>
-</div><br>
+</div>
 
 ### <i><h4>🚀🚀 Minhas estatísticas🚀🚀</h4></i>
 
