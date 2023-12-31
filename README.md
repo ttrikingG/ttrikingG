@@ -9,10 +9,6 @@
 
 ### <h1>### 🐘🐘 Desenvolvimento Web em <i>PHP</i> 🐘🐘 ###</h1>
 
-<div align="center">
-     <img width="180px" src="https://github.com/ttrikingG/imageProfile/blob/main/phpElephant.png" alt="">
-</div>
-
 <div>
     <ul>
     <li>Conhecimentos em desenvolvimento(estruturação) de projetos e aplicações em <strong><b>PHP(Orientado a Objetos)</b></strong>.</li>
@@ -22,6 +18,10 @@
     </ul>
 </div>
         
+<div align="center">
+     <img width="180px" src="https://github.com/ttrikingG/imageProfile/blob/main/phpElephant.png" alt="">
+</div>
+
 </div>
   <ul>
       <img src="" alt=""><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="">
