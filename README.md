@@ -13,7 +13,7 @@
     <ul>
     <li>Conhecimentos em desenvolvimento(estruturação) de projetos e aplicações em <strong><b>PHP(Orientado a Objetos)</b></strong>.</li>
     <li>Criação e desenvolvimento(padrão MVC ). Conhecimentos e entendimento sobre <strong>Controllers, Views, Models, Routers, PDO, criação de formulários, validação e cadastro de usuários no banco de dados</strong>.</li>
-    <li>Conhecimentos em </b></strong>Banco de dados Sql, PostgresSql, SQLite</b></strong>, entendimento conceitual sobre: abstração, normalização, chaves e relacionamentos, modelo entidade-relacionamento, operações(CRUD)criação de tabelas, edição e recuperação de informações do banco,<strong><b>(mysql, sqlite, postgres)</b> , ActiveRecords</strong>.</li>
+    <li>Conhecimentos em </b></strong>Banco de dados entendimento conceitual sobre: abstração, normalização, chaves e relacionamentos, modelo entidade-relacionamento, operações(CRUD)criação de tabelas, ActiveRecords edição e recuperação de informações do banco <strong><b>(Mysql, Sqlite, Postgres)</b></strong>.</li>
      <li>Uso de ferramentas: <strong>Composer, phpMailer, twig, plates, Axios, Intervention, illuminate</strong>.</li>
     </ul>
 </div>
