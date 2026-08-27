@@ -10,11 +10,3 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, com foco no 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Foco
-
-- Desenvolvimento de aplicações
-- APIs
-- Programação Orientada a Objetos
-- Arquitetura de software
-- Boas práticas de desenvolvimento
